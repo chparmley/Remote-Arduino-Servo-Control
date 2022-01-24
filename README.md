@@ -18,6 +18,9 @@ Flash this example sketch to the Arduino Uno or equally capable board.
 From within the Processing application:
 1. File->Open
 2. Then navigate to this cloned repository and select Remote_Cat_Laser.pde
+[PENDING STEP!]--> the correct com ports index needs to be set. need to come back and convey this well.
+4. Ensure the Arduino Uno is connected via USB to the PC.
+5. Click the play button to run the app within processing and enjoy!
 
 
 # Controls
