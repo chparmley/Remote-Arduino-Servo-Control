@@ -30,4 +30,4 @@ Left/Right Bumper: movement speed and FOV
 
 Y,A,X,B: move the lasers resting location up,down,left, and right respectively
 
-Back/Menu: turn on/off control inversion
+Back/Menu: turn enable or disable control inversion
