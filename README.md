@@ -1,4 +1,4 @@
-# Remote_Cat_Laser
+# Remote Arduino Servo Control
 Java powered Xbox1 Controller interface for controlling servos via an Arduino Uno.
 Bluetooth/Wifi/Wired as long the computer recognizes it as a controller.
 Button map is calibrated for an Xbox1 Controller (Newer with usb-c).
