@@ -4,7 +4,7 @@ Bluetooth/Wifi/Wired as long the computer recognizes it as a controller.
 Button map is calibrated for an Xbox1 Controller (Newer with usb-c).
 Others will likely work but untested.
 
-Processer, which is needed to run the application:
+Processing, an application needed to run the application:
 https://processing.org/download
 
 Arduino IDE:
