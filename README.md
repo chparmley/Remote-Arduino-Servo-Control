@@ -10,10 +10,11 @@ https://processing.org/download
 Arduino IDE:
 https://www.arduino.cc/en/software
 
-Open the Arduino IDE and select:
-File->Examples->Firmata->StandardFirmata
+Ensure servo pwm connection wires are plugged into ports 3 and 10 of the Arduino.
 
-Flash this example sketch to the Arduino Uno or equally capable board.
+Open the Arduino IDE and select:
+1. File->Examples->Firmata->StandardFirmata
+2. Flash this example sketch to the Arduino Uno or equally capable board.
 
 From within the Processing application:
 1. File->Open
