@@ -1,0 +1,9 @@
+control arduino servo
+xaxis	xaxis	3	SLIDER	z	0	-1.0	0.0
+yaxis	yaxis	3	SLIDER	rz	0	1.0	0.0
+yaxisUp	yaxisUp	1	BUTTON	4	0	0.0	0.0
+yaxisDown	yaxisDown	1	BUTTON	0	0	0.0	0.0
+xaxisLeft	xaxisLeft	1	BUTTON	3	0	0.0	0.0
+xaxisRight	xaxisRight	1	BUTTON	1	0	0.0	0.0
+widen	widen	1	BUTTON	6	0	0.0	0.0
+narrow	narrow	1	BUTTON	7	0	0.0	0.0

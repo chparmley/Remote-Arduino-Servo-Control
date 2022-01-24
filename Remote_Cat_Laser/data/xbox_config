@@ -1,0 +1,11 @@
+control arduino servo with xbox controller
+xaxis	controls xaxis servo	3	SLIDER	z	0	-1.0	0.1
+yaxis	controls yaxis servo	3	SLIDER	rz	0	1.0	0.1
+xleft	moves position left	1	BUTTON	3	0	0.0	0.0
+xright	moves position right	1	BUTTON	1	0	0.0	0.0
+yup	moves postion up	1	BUTTON	4	0	0.0	0.0
+ydown	moves position down	1	BUTTON	0	0	0.0	0.0
+widen	widens fov	1	BUTTON	6	0	0.0	0.0
+narrow	narrows fov	1	BUTTON	7	0	0.0	0.0
+invertTrue	sets control inversion to true	1	BUTTON	10	0	0.0	0.0
+invertFalse	sets control inversion to false	1	BUTTON	11	0	0.0	0.0
