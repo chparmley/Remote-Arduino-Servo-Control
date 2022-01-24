@@ -22,6 +22,9 @@ From within the Processing application:
 
 # Controls
 Right Stick: analog turrent movement
+
 Left/Right Bumper: movement speed and FOV
+
 Y,A,X,B: move the lasers resting location up,down,left, and right respectively
+
 Back/Menu: turn on/off control inversion
